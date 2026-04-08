@@ -1,2 +1,2 @@
 # Large-Language-Models
-Projects done in LLM course
+Projects done in LLM and ML courses
