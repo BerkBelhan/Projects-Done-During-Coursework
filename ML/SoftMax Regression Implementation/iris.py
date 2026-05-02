@@ -1,3 +1,10 @@
+"""
+I have Implemented this code during CMPE442 Machine Learning course. 
+The code implements a Softmax Regression model with polynomial features and regularization on the Iris dataset. 
+It includes cross-validation to select the best polynomial degree and compares different regularization techniques (Ridge, Lasso, Elastic Net) with various learning rates. 
+The final model is evaluated on the test set using accuracy, precision, recall, and F1 score metrics.
+
+"""
 import torch
 import itertools
 import numpy as np
