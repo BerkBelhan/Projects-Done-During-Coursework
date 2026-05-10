@@ -19,7 +19,8 @@ Projects-Done-During-Coursework/
 │   └── Sentiment Classification Implementation/
 │
 ├── LLM/
-│   └── Company Database Chatbot/
+│   ├── Company Database Chatbot/
+│   └── Link to Term Project's Repository/
 │
 └── README.md
 ```
