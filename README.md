@@ -178,7 +178,8 @@ A chatbot application that interacts with a company database using LLM-based nat
 ## Scaminator — E-Commerce Fraud Detector
 
 **External Repository:**
-[Scaminator - Fraud Detector Repository](https://github.com/BerkBelhan/fraud-detector?utm_source=chatgpt.com)
+
+[![Project Page](https://img.shields.io/badge/Project%20Page-Visit-green?style=for-the-badge\&logo=github)](https://github.com/BerkBelhan/fraud-detector)
 
 A large-scale **LLM-powered multi-agent fraud detection system** developed as a term project for **SENG 472**.
 
