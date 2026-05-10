@@ -160,54 +160,6 @@ The project produces:
 
 ---
 
-## Core Features
-
-### Multi-Agent Investigation System
-
-Separate AI agents independently analyze:
-
-* Product descriptions
-* User reviews
-* Seller information
-
-### LLM-Powered Reasoning
-
-Uses:
-
-* Google Gemini API
-* Custom reasoning pipelines
-* Aggregated agent outputs
-
-### Explainable AI
-
-The system provides:
-
-* Detailed verdicts
-* Confidence reasoning
-* Fraud indicators
-* User safety recommendations
-
-### Modular Architecture
-
-Designed for:
-
-* Easy extension
-* Additional investigators
-* New marketplaces or data sources
-* Scalable analysis workflows
-
----
-
-## Technologies Used
-
-* Python
-* Google Gemini API
-* Streamlit
-* Selenium
-* BeautifulSoup
-* Pydantic
-
----
 
 # Skills Demonstrated
 
