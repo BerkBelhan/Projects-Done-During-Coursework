@@ -20,7 +20,7 @@ Projects-Done-During-Coursework/
 │
 ├── LLM/
 │   ├── Company Database Chatbot/
-│   └── Link to Term Project's Repository/
+│   └── Link to Term Project Repository/
 │
 └── README.md
 ```
