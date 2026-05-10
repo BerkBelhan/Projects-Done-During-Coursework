@@ -13,7 +13,8 @@ Projects-Done-During-Coursework/
 │
 ├── ML/
 │   ├── Decision Tree vs MLP Implementation/
-│   └── SoftMax Regression Implementation/
+│   ├── SoftMax Regression Implementation/
+│   └── Australia Rain Prediction Classifier/
 │
 ├── NLP/
 │   └── Sentiment Classification Implementation/
@@ -29,11 +30,13 @@ Projects-Done-During-Coursework/
 
 # Project Categories
 
-## Machine Learning (ML)
+# Machine Learning (ML)
 
-Projects focused on implementing and understanding core machine learning algorithms and neural network architectures.
+Projects focused on implementing and understanding core machine learning algorithms, classification systems, and neural network architectures.
 
-### 1. Decision Tree vs MLP Implementation
+---
+
+## 1. Decision Tree vs MLP Implementation
 
 **Location:** `ML/Decision Tree vs MLP Implementation`
 
@@ -57,7 +60,7 @@ A comparative machine learning project analyzing the performance differences bet
 
 ---
 
-### 2. SoftMax Regression Implementation
+## 2. SoftMax Regression Implementation
 
 **Location:** `ML/SoftMax Regression Implementation`
 
@@ -78,9 +81,48 @@ Implementation of multiclass classification using SoftMax Regression from scratc
 
 ---
 
+## 3. Australia Rain Prediction Classifier
+
+**Location:** `ML/Australia Rain Prediction Classifier`
+
+Final project completed as part of the IBM Machine Learning Coursera course.
+
+This project focuses on predicting rainfall in Australia using historical weather data and machine learning classification techniques.
+
+### Features
+
+* Weather data preprocessing and cleaning
+* Feature engineering
+* Classification model training
+* Prediction evaluation and analysis
+
+### Algorithms & Methods
+
+* Random Forest Classifier
+* Supervised Learning
+* Data Visualization
+* Performance Metrics Evaluation
+
+### Topics Covered
+
+* Classification problems
+* Ensemble learning methods
+* Model accuracy evaluation
+* Real-world weather prediction datasets
+
+### Key Objectives
+
+* Predict whether it will rain based on weather conditions
+* Apply machine learning techniques to real-world datasets
+* Evaluate model performance using classification metrics
+
+---
+
 # Natural Language Processing (NLP)
 
 Projects related to text processing, language understanding, and sentiment analysis.
+
+---
 
 ## Sentiment Classification Implementation
 
@@ -106,6 +148,8 @@ A sentiment analysis project focused on classifying textual data into sentiment 
 # Large Language Models (LLM)
 
 Projects involving LLM applications, conversational systems, and AI-powered reasoning.
+
+---
 
 ## Company Database Chatbot
 
@@ -134,7 +178,7 @@ A chatbot application that interacts with a company database using LLM-based nat
 ## Scaminator — E-Commerce Fraud Detector
 
 **External Repository:**
-[![Project Page](https://img.shields.io/badge/Project%20Page-Visit-green?style=for-the-badge\&logo=github)](https://github.com/BerkBelhan/fraud-detector)
+[Scaminator - Fraud Detector Repository](https://github.com/BerkBelhan/fraud-detector?utm_source=chatgpt.com)
 
 A large-scale **LLM-powered multi-agent fraud detection system** developed as a term project for **SENG 472**.
 
@@ -161,8 +205,7 @@ The project produces:
 
 ---
 
-
-# Skills Demonstrated
+## Skills Demonstrated
 
 This repository includes practical work involving:
 
