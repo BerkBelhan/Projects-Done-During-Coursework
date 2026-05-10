@@ -1,2 +1,0 @@
--Term Project for LLM can be found in this repo
-https://github.com/BerkBelhan/fraud-detector
