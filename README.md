@@ -3,7 +3,13 @@
 A collection of projects completed during coursework in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
 This repository serves as a portfolio of implementations, experiments, and academic projects developed throughout my studies. 
-The projects range from foundational ML algorithms and computer vision applications to LLM-powered systems and multi-agent AI projects.
+The projects range from:
+
+- Foundational ML algorithms
+- Computer vision applications
+- NLP systems
+- LLM-powered applications
+- Multi-agent AI projects
 ---
 
 # Repository Structure
