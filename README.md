@@ -14,7 +14,8 @@ Projects-Done-During-Coursework/
 ├── ML/
 │   ├── Decision Tree vs MLP Implementation/
 │   ├── SoftMax Regression Implementation/
-│   └── Australia Rain Prediction Classifier/
+│   ├── Australia Rain Prediction Classifier/
+│   └── K-Means and GMM Image Segmentation/
 │
 ├── NLP/
 │   └── Sentiment Classification Implementation/
@@ -115,6 +116,56 @@ This project focuses on predicting rainfall in Australia using historical weathe
 * Predict whether it will rain based on weather conditions
 * Apply machine learning techniques to real-world datasets
 * Evaluate model performance using classification metrics
+
+---
+
+## 4. K-Means and GMM Image Segmentation
+
+**Location:** `ML/K-Means and GMM Image Segmentation`
+
+An image segmentation project implementing **K-Means Clustering** and **Gaussian Mixture Models (GMM)** from scratch using Python.
+
+The project focuses on unsupervised learning techniques for segmenting images into clusters based on pixel distributions and color similarities.
+
+### Features
+
+* K-Means clustering implementation from scratch
+* Gaussian Mixture Model (GMM) implementation from scratch
+* Image segmentation using clustering algorithms
+* Comparative analysis between K-Means and GMM segmentation performance
+* Experiments with multiple cluster sizes (K values)
+
+### Topics Covered
+
+* Unsupervised learning
+* Clustering algorithms
+* Expectation-Maximization (EM)
+* Image segmentation
+* Gaussian distributions
+* Pixel-based clustering
+* Computer vision fundamentals
+
+### Key Objectives
+
+* Understand clustering-based image segmentation
+* Implement K-Means and GMM algorithms without machine learning libraries
+* Compare segmentation quality across different cluster counts
+* Analyze strengths and weaknesses of probabilistic vs centroid-based clustering methods
+
+### Technologies Used
+
+* Python
+* NumPy
+* SciPy
+* Matplotlib
+* scikit-image
+
+### Project Notes
+
+* Implemented without using ready-made ML model implementations such as scikit-learn clustering algorithms
+* Tested on multiple images from the COCO 2017 validation dataset
+* Includes visualization of segmentation maps for different K values
+* Contains comparative evaluation and analysis of both algorithms
 
 ---
 
